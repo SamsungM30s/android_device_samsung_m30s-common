@@ -19,8 +19,6 @@
 
 #pragma push_macro("PROPERTY_VALUE_MAX")
 
-#define BTM_DEF_LOCAL_NAME "Galaxy M30s"
-
 /*
  * Toggles support for vendor specific extensions such as RPA offloading,
  * feature discovery, multi-adv etc.

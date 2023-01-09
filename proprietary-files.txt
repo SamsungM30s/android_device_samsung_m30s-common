@@ -53,9 +53,6 @@ vendor/lib64/libgf_in_system_lib.so
 vendor/lib64/libqfp_sensortest.so
 vendor/lib64/libsynaFpSensorTestNwd.so
 
-## Bluetooth
-system/lib64/libaptX_encoder.so
-
 ## Camera
 vendor/lib/hw/camera.exynos9611.so
 vendor/lib64/hw/camera.exynos9611.so
